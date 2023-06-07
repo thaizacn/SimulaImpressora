@@ -10,4 +10,16 @@ public class SimulaImpressoraApplication {
 		SpringApplication.run(SimulaImpressoraApplication.class, args);
 	}
 
+	public void copyright() {
+	  /**
+	   * **********************************************
+	   *
+	   * <p> Thaiza Carvalho Nascimento
+	   * 
+	   * <p> [2023] 
+	   * 
+	   * <p> TEST: Projeto desenvolvido com <3 por Thai 
+	   * 
+	   */
+	}
 }
